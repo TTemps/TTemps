@@ -21,4 +21,4 @@ Je suis un passionné de technologies et d'innovation, avec un intérêt particu
 
 ### Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttemps)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttemps&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
