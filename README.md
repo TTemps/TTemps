@@ -12,4 +12,4 @@ Je suis un passionné de technologies et d'innovation, avec un intérêt particu
 - Compétences à acquérir : ![DNS](lien_vers_l_image_DNS) ![DHCP](lien_vers_l_image_DHCP) ![AD Windows](lien_vers_l_image_AD_Windows) ![PfSense](lien_vers_l_image_PfSense) ![Office 365](lien_vers_l_image_Office_365) ![AWS](lien_vers_l_image_AWS) ![Azure](lien_vers_l_image_Azure) ![PowerShell](lien_vers_l_image_PowerShell)
 
 ### Réseaux Sociaux 🌐
-- [LinkedIn](lien_vers_votre_profil_LinkedIn)
+- [LinkedIn](www.linkedin.com/in/tristan-morel21)
