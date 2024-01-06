@@ -1,9 +1,9 @@
 ## Tristan Morel
 
-### À propos de moi
+### À propos de moi 🌟
 Je suis un passionné de technologies et d'innovation, avec un intérêt particulier pour la sécurisation des infrastructures. En dehors du code, j'aime consacrer du temps à la musculation, à la lecture de romans de science-fiction et à la rénovation de bâtiments et d'objets.
 
-### Réseaux Sociaux
+### Réseaux Sociaux 🌐
 - [LinkedIn](lien_vers_votre_profil_LinkedIn)
 - [Twitter](lien_vers_votre_profil_Twitter)
 - [GitHub](lien_vers_votre_profil_GitHub)
