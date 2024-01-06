@@ -4,7 +4,7 @@
 Je suis un passionné de technologies et d'innovation, avec un intérêt particulier pour la sécurisation des infrastructures. En dehors du code, j'aime consacrer du temps à la musculation, à la lecture de romans de science-fiction et à la rénovation de bâtiments et d'objets.
 
 ### Compétence Stack 💻
-- Langages: ![C](lien_vers_l_image_C) ![Java](lien_vers_l_image_Java) ![Python](lien_vers_l_image_Python) ![PHP](lien_vers_l_image_PHP)
+- Langages: ![C](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/280px-C_Programming_Language.svg.png) ![Java](lien_vers_l_image_Java) ![Python](lien_vers_l_image_Python) ![PHP](lien_vers_l_image_PHP)
 - Outils de gestion de projet: ![Git](lien_vers_l_image_Git) ![Trello](lien_vers_l_image_Trello)
 - Systèmes: ![Windows](lien_vers_l_image_Windows) ![Linux](lien_vers_l_image_Linux)
 - Bases de données: ![MySQL](lien_vers_l_image_MySQL) ![PostgreSQL](lien_vers_l_image_PostgreSQL)
