@@ -13,3 +13,6 @@ Je suis un passionné de technologies et d'innovation, avec un intérêt particu
 
 ### Réseaux Sociaux 🌐
 - [LinkedIn](www.linkedin.com/in/tristan-morel21)
+
+### Gifs
+[dinosaure](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.google%2Fproducts%2Fchrome%2Fchrome-dino%2F&psig=AOvVaw0dgMJsv0kXCYnQZ8VQv2PO&ust=1704661673539000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPiQod7VyYMDFQAAAAAdAAAAABAE)
