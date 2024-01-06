@@ -15,4 +15,5 @@ Je suis un passionné de technologies et d'innovation, avec un intérêt particu
 - [LinkedIn](www.linkedin.com/in/tristan-morel21)
 
 ### Gifs 🎬
-- ![dinosaure](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
+
+ ![dinosaure](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
