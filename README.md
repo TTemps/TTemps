@@ -1,7 +1,7 @@
 ## Tristan Morel
 
 ### À propos de moi 🌟
-Je suis un passionné de technologies et d'innovation, avec un intérêt particulier pour la sécurisation des infrastructures. En dehors du code, j'aime consacrer du temps à la musculation, à la lecture de romans de science-fiction et à la rénovation de bâtiments et d'objets.
+Je suis un passionné de technologies et d'innovation, avec un intérêt particulier pour la sécurisation des infrastructures. En dehors du code, j'aime consacrer du temps à la musculation, à la lecture de romans de science-fiction et à la rénovation de bâtiments
 
 ### Compétences Stack 💻
 
