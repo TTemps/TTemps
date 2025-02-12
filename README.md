@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ttemps" alt="ttemps" /></a> </p>
 
-- 🔭 I’m currently working as an intern at **A2MAC1**
+- 🔭 I’m currently working as an intern at **E.LECLERC - Neufchâtel-en-Bray**
 
-- 🌱 I’m currently learning **Azure**
-
-- 🤝 I’m looking for help with **started my business**
+- 🌱 I'm currently enrolled in the **MICSI** program at **CESI**
 
 - 👨‍💻 All of my projects are available at [ttemps.com](ttemps.com)
 
-- 📫 How to reach me **tristan.morel@ttemps.com**
+- 📫 How to reach me **tristan.morel21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
